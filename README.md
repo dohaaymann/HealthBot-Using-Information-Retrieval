@@ -1,7 +1,5 @@
 # Arabic Healthcare Search Engine
 
-![Project Logo](https://via.placeholder.com/150) *(Optional: Add a logo if available)*
-
 A specialized search engine for Arabic healthcare information, designed to retrieve and rank relevant medical Q&A documents based on user queries.
 
 ## Features
